@@ -5,7 +5,7 @@ This repository contains my Java Object-Oriented Programming practice programs.
 ## Topics Covered
 - Classes & Objects
 - Constructors
-- Encapsulation
+- Encapsulation 
 - Inheritance
 - Polymorphism
 - Abstraction
