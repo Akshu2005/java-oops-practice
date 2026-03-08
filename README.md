@@ -8,8 +8,7 @@ This repository contains my Java Object-Oriented Programming practice programs.
 - Encapsulation 
 - Inheritance
 - Polymorphism
-- Abstraction
+- Abstraction                   
 
 ## Author
 Akanksha Srivastava
-B.Tech CSE (2026)
